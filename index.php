@@ -22,15 +22,15 @@
     <h2>Fitur Unggulan Kami</h2>
     <div class="features">
         <div class="card">
-            <h3>🚗 Gadai Jemput</h3>
+            <h3>Gadai Jemput</h3>
             <p>Barang gadai Anda akan kami jemput langsung ke rumah Anda.</p>
         </div>
         <div class="card">
-            <h3>📦 Gadai Delivery</h3>
+            <h3>Gadai Delivery</h3>
             <p>Pencairan cepat dan barang dikirimkan kembali dengan aman setelah lunas.</p>
         </div>
         <div class="card">
-            <h3>💻 Gadai Jual Online</h3>
+            <h3>Gadai Jual Online</h3>
             <p>Pilihan alternatif langsung menjual barang secara online jika tidak ditebus.</p>
         </div>
     </div>
